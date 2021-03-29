@@ -1,2 +1,3 @@
+include ':atozbtprinterlib'
 include ':app'
 rootProject.name = "AtozBluetoothPrinter"
